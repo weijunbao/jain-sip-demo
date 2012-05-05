@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="C:/Users/jiancao/Documents/Workstation/Android_voip/NetProject/jain-sip-android/textclient/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jiancao/Documents/Workstation/Android_voip/NetProject/jain-sip-android/textclient/lib/JainSipRi1.2.jar" sourcepath="C:/Users/jiancao/Documents/Workstation/Android_voip/ThirdLibs/jain-sip-src-1.2.2014.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jiancao/Documents/Workstation/Android_voip/NetProject/jain-sip-android/textclient/lib/JainSipApi1.2.jar" sourcepath="C:/Users/jiancao/Documents/Workstation/Android_voip/ThirdLibs/jain-sip-api-1.2-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jiancao/Documents/Workstation/Android_voip/NetProject/jain-sip-android/textclient/lib/concurrent.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
